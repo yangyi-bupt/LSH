@@ -18,8 +18,8 @@ make
 run main  
 High \sigma means little difference in raw features will produce a different bit hash
 ### Annotation
- - C++ code used scoped_ptr and scoped_array in base dir.
+ - C++ code use scoped_ptr and scoped_array in base directory.
 It is copied from [gjstest](https://github.com/google/gjstest/tree/master/base).  
 You can use boost or write it yourself instead.
- - Used libsvm like features in C++ implementation.
- - Used org.apache.mahout.math.SequentialAccessSparseVector in Java implementation.
+ - Use libsvm like features in C++ implementation.
+ - Use org.apache.mahout.math.SequentialAccessSparseVector in Java implementation.
