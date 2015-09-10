@@ -1,7 +1,7 @@
 # Locality-Sensitive Binary Codes from Shift-Invariant Kernels
 Implement [Locality-Sensitive Binary Codes from Shift-Invariant Kernels NIPS(2009)](http://www.robots.ox.ac.uk/~vgg/rg/papers/binarycodes.pdf)  
-Here is two versions of the implementation (Java and C++)
-Any questions is welcomed.
+Here is two versions of the implementation (Java and C++)  
+Any questions is welcomed.    
 
 ### Java
 #### Usage
